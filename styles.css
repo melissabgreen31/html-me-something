@@ -1,0 +1,25 @@
+body {
+  background-color: #3CB371;
+  margin: 200px 200px 200px 200px;
+  padding: 50px 30px 50px 80px;
+  
+}
+
+p {
+    color: white;
+}
+
+h3 {
+    text-align: center;
+    color: #191970;
+    font-family: Courier;
+}
+
+footer { 
+    display: block;
+}
+
+header { text-align: center;
+font-family: 'Sacramento', cursive;
+font-size: 100px;
+}
